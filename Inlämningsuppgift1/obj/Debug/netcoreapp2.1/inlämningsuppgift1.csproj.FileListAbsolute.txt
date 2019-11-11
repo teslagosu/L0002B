@@ -1,0 +1,11 @@
+/Users/sebastian/Desktop/Systemvetenskap/C# Programmering/Skansholmuppgfiter/inlämningsuppgift1/inlämningsuppgift1/bin/Debug/netcoreapp2.1/inlämningsuppgift1.deps.json
+/Users/sebastian/Desktop/Systemvetenskap/C# Programmering/Skansholmuppgfiter/inlämningsuppgift1/inlämningsuppgift1/bin/Debug/netcoreapp2.1/inlämningsuppgift1.runtimeconfig.json
+/Users/sebastian/Desktop/Systemvetenskap/C# Programmering/Skansholmuppgfiter/inlämningsuppgift1/inlämningsuppgift1/bin/Debug/netcoreapp2.1/inlämningsuppgift1.runtimeconfig.dev.json
+/Users/sebastian/Desktop/Systemvetenskap/C# Programmering/Skansholmuppgfiter/inlämningsuppgift1/inlämningsuppgift1/bin/Debug/netcoreapp2.1/inlämningsuppgift1.dll
+/Users/sebastian/Desktop/Systemvetenskap/C# Programmering/Skansholmuppgfiter/inlämningsuppgift1/inlämningsuppgift1/bin/Debug/netcoreapp2.1/inlämningsuppgift1.pdb
+/Users/sebastian/Desktop/Systemvetenskap/C# Programmering/Skansholmuppgfiter/inlämningsuppgift1/inlämningsuppgift1/obj/Debug/netcoreapp2.1/inlämningsuppgift1.csprojAssemblyReference.cache
+/Users/sebastian/Desktop/Systemvetenskap/C# Programmering/Skansholmuppgfiter/inlämningsuppgift1/inlämningsuppgift1/obj/Debug/netcoreapp2.1/inlämningsuppgift1.csproj.CoreCompileInputs.cache
+/Users/sebastian/Desktop/Systemvetenskap/C# Programmering/Skansholmuppgfiter/inlämningsuppgift1/inlämningsuppgift1/obj/Debug/netcoreapp2.1/inlämningsuppgift1.AssemblyInfoInputs.cache
+/Users/sebastian/Desktop/Systemvetenskap/C# Programmering/Skansholmuppgfiter/inlämningsuppgift1/inlämningsuppgift1/obj/Debug/netcoreapp2.1/inlämningsuppgift1.AssemblyInfo.cs
+/Users/sebastian/Desktop/Systemvetenskap/C# Programmering/Skansholmuppgfiter/inlämningsuppgift1/inlämningsuppgift1/obj/Debug/netcoreapp2.1/inlämningsuppgift1.dll
+/Users/sebastian/Desktop/Systemvetenskap/C# Programmering/Skansholmuppgfiter/inlämningsuppgift1/inlämningsuppgift1/obj/Debug/netcoreapp2.1/inlämningsuppgift1.pdb

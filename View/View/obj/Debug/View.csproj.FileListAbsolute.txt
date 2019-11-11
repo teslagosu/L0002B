@@ -1,0 +1,7 @@
+c:\users\sebastian\source\repos\View\View\bin\Debug\View.exe.config
+c:\users\sebastian\source\repos\View\View\bin\Debug\View.exe
+c:\users\sebastian\source\repos\View\View\bin\Debug\View.pdb
+c:\users\sebastian\source\repos\View\View\obj\Debug\View.csprojAssemblyReference.cache
+c:\users\sebastian\source\repos\View\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+c:\users\sebastian\source\repos\View\View\obj\Debug\View.exe
+c:\users\sebastian\source\repos\View\View\obj\Debug\View.pdb

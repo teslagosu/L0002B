@@ -1,0 +1,15 @@
+C:\Users\sebastian\source\repos\inl3\inl3\bin\Debug\inl3.exe.config
+C:\Users\sebastian\source\repos\inl3\inl3\bin\Debug\inl3.exe
+C:\Users\sebastian\source\repos\inl3\inl3\bin\Debug\inl3.pdb
+C:\Users\sebastian\source\repos\inl3\inl3\obj\Debug\MainWindow.g.cs
+C:\Users\sebastian\source\repos\inl3\inl3\obj\Debug\App.g.cs
+C:\Users\sebastian\source\repos\inl3\inl3\obj\Debug\inl3_MarkupCompile.cache
+C:\Users\sebastian\source\repos\inl3\inl3\obj\Debug\inl3_MarkupCompile.lref
+C:\Users\sebastian\source\repos\inl3\inl3\obj\Debug\MainWindow.baml
+C:\Users\sebastian\source\repos\inl3\inl3\obj\Debug\inl3.g.resources
+C:\Users\sebastian\source\repos\inl3\inl3\obj\Debug\inl3.Properties.Resources.resources
+C:\Users\sebastian\source\repos\inl3\inl3\obj\Debug\inl3.csproj.GenerateResource.cache
+C:\Users\sebastian\source\repos\inl3\inl3\obj\Debug\inl3.csproj.CoreCompileInputs.cache
+C:\Users\sebastian\source\repos\inl3\inl3\obj\Debug\inl3.exe
+C:\Users\sebastian\source\repos\inl3\inl3\obj\Debug\inl3.pdb
+C:\Users\sebastian\source\repos\inl3\inl3\obj\Debug\inl3.csprojAssemblyReference.cache
